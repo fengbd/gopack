@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/IdanLoo/gopack/util/cmd"
-	"github.com/IdanLoo/gopack/util/config"
+	"github.com/fengbd/gopack/util/cmd"
+	"github.com/fengbd/gopack/util/config"
 )
 
 // operation is some shell command in gopack.yaml

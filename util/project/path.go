@@ -3,7 +3,7 @@ package project
 import (
 	"os"
 
-	"github.com/IdanLoo/gopack/util/git"
+	"github.com/fengbd/gopack/util/git"
 )
 
 // Path is a structure of project path

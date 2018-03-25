@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/IdanLoo/gopack/model"
-	"github.com/IdanLoo/gopack/util/config"
-	"github.com/IdanLoo/gopack/util/git"
+	"github.com/fengbd/gopack/model"
+	"github.com/fengbd/gopack/util/config"
+	"github.com/fengbd/gopack/util/git"
 )
 
 // Project is a map to repository

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/IdanLoo/gopack/util/cmd"
+	"github.com/fengbd/gopack/util/cmd"
 )
 
 // Clone a repository

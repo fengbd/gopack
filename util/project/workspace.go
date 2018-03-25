@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/IdanLoo/gopack/util/config"
+	"github.com/fengbd/gopack/util/config"
 )
 
 var workspace = config.Global.Workspace

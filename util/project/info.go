@@ -3,8 +3,8 @@ package project
 import (
 	"os"
 
-	"github.com/IdanLoo/gopack/model"
-	"github.com/IdanLoo/gopack/util/config"
+	"github.com/fengbd/gopack/model"
+	"github.com/fengbd/gopack/util/config"
 )
 
 const infoFilename = ".info"

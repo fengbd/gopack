@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/IdanLoo/gopack/util/config"
+	"github.com/fengbd/gopack/util/config"
 )
 
 // Binary is the production after build
